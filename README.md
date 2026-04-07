@@ -1,5 +1,5 @@
 # MC3D-samples
-A dataset of motorcycle complexes computed on seamless parametrizations via the 3D motorcycle complex ([MC3D](https://github.com/HendrikBrueckler/MC3D)).
+A dataset of 200 motorcycle complexes computed on seamless parametrizations via the 3D motorcycle complex ([MC3D](https://github.com/HendrikBrueckler/MC3D)).
 
 The dataset has been prepared by calling MC3D on three different input datasets containing seamless parametrizations of tetrahedral meshes in ```.hexex``` file format, listed below.
 After motorcycle complex construction, all tetrahedral meshes have been heavily remeshed and decimated while preserving features as well as parametrization injectivity to reduce file size and speed up file handling.
