@@ -45,6 +45,9 @@ The output file format is specified as follows:
 <feature_facetFE_vidx1 feature_facetFF_vidx2 feature_facetFF_vidx3>
 ```
 These values are in the following formats:
+
 "number", "idx": int
+
 "coord", "dist": float
+
 "param": rational number (string-encoded via GMP library; <+-numerator/denominator>, both encoded as integers with arbitrarily many digits)
